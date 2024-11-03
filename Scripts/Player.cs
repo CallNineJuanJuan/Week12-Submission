@@ -27,6 +27,10 @@ public class Player : MonoBehaviour
         {
             transform.position = new Vector3(transform.position.x, 0.5f, 0);
         }
+        if(transform.position.y <= -3.5f)
+        {   
+            transform.position = new Vector3(transform.position.x, -3.5f, 0);
+        }
         Movement();
         Shooting();
     }
