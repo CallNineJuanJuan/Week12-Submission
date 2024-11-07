@@ -1,5 +1,5 @@
-Task 1: Limited Player Movement
+Task 1: Create Updating Lives UI
 Completed by Jose Mora-Rodriguez
 
-Task 2: Create New Enemy Type
+Task 2: Create Coins
 Completed by Mel Cho Chia Yuen
